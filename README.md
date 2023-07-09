@@ -1,4 +1,4 @@
-Hello World !! Eu Sou Cleuton Barreto :computer:, Desenvolvedor Front End Junior !!
+Hello World !! Eu Sou Cleuton Barreto :computer:, Desenvolvedor !!
 
 - :man_technologist: Apaixonado por programação
 - Estudante de programação
