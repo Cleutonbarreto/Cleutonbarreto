@@ -5,8 +5,8 @@ Hello World !! Eu Sou Cleuton Barreto :computer:, Desenvolvedor !!
 <p align="center" style="border-radius:100%"></p>
 <div align="center">
   <a href="https://github.com/Cleutonbarreto">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cleutonbarreto&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleutonbarreto&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="151em" src="https://github-readme-stats.vercel.app/api?username=Cleutonbarreto&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleutonbarreto&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 <div align="center" valign="top"><br>
