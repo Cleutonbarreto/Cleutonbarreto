@@ -1,7 +1,7 @@
 Hello World !! I am Cleuton Barreto :computer:, Developer !!
 
 - :man_technologist: Passionate about programming
-- Languages ​​I currently study: JAVA | SPRING | HTML | CSS | JAVASCRIPT.
+- Languages ​​I currently study: JAVA | HTML | CSS | JAVASCRIPT AND FRAMEWORK SPRING.
 <p align="center" style="border-radius:100%"></p>
 <div align="center">
   <a href="https://github.com/Cleutonbarreto">
