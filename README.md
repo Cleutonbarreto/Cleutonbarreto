@@ -1,7 +1,7 @@
-Hello World !! Eu Sou Cleuton Barreto :computer:, Desenvolvedor !!
+Hello World !! I am Cleuton Barreto :computer:, Developer !!
 
-- :man_technologist: Apaixonado por programação
-- Estudante de programação
+- :man_technologist: Passionate about programming
+- Languages ​​I currently study: JAVA | SPRING | HTML | CSS | JAVASCRIPT.
 <p align="center" style="border-radius:100%"></p>
 <div align="center">
   <a href="https://github.com/Cleutonbarreto">
